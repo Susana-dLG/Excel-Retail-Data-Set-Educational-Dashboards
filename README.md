@@ -1,4 +1,4 @@
-# 📊 Excel Data Projects – Retail, Education & Dashboard Tasks
+# 📊 Excel Data Projects – Retail, Dashboard  & Educational Tasks
 
 This repository showcases my practical Excel skills across **three structured exercises**. From retail analysis to academic performance evaluation and dynamic dashboard creation, I used key Excel tools such as formulas, filtering, sorting, conditional formatting, pivot tables, and interactive visuals.
 
@@ -12,7 +12,9 @@ This repository showcases my practical Excel skills across **three structured ex
 | 📊 Pivot Tables & Charts  | Summarize and visualize data dynamically                                    |
 | 🎯 Conditional Formatting | Highlight highest/lowest values visually                                   |
 | 📈 Excel Formulas         | `SUM`, `AVERAGE`, `MAX`, `COUNTIFS`, `XLOOKUP`                             |
+|     Concatenate
 | 🧩 Slicers                | Add interactivity to pivot reports                                          |
+ 
 
 ---
 
@@ -20,8 +22,8 @@ This repository showcases my practical Excel skills across **three structured ex
 
 **Skills Demonstrated:**
 - Filtered customer **Age** from largest to smallest.
-- Used `=SUM()` to calculate **total commission** in cell `P10`.
-- Used `=AVERAGE()` to calculate **average commission** in cell `P11`.
+- Used `=SUM()` to calculate **total commission** .
+- Used `=AVERAGE()` to calculate **average commission** .
 
 📸 *Screenshots:*
 -
@@ -31,27 +33,7 @@ This repository showcases my practical Excel skills across **three structured ex
 
 
 ---
-
-## 📁 Task 2: Student Academic Performance
-
-**Skills Demonstrated:**
-- 🧮 Applied filters to show top students in **English, Maths, and Science**.
-- ➗ Calculated each student's **average score**.
-- 📊 Used `=MAX()` to identify the **highest individual score**.
-- 🔢 Filtered & sorted data by **average** and **highest scores**.
-- 🎨 Used **conditional formatting** to highlight **top and bottom performers**.
-
-📸 *Screenshots:*
-
-- ![Screenshot 2025-06-12 123658](https://github.com/user-attachments/assets/57274b32-44f6-48a9-9f0b-0d1e86b1be0c)
-- ![Screenshot 2025-06-12 123716](https://github.com/user-attachments/assets/46148c98-34cd-4a99-8588-828d1bf4d82c)
-- ![Screenshot 2025-06-12 123730](https://github.com/user-attachments/assets/a3ff6753-5379-44fc-8313-6a7ca25ad0fa)
-- ![Screenshot 2025-06-12 123745](https://github.com/user-attachments/assets/6e189e8e-a505-4e20-b11e-07d169c27833)
-- ![Screenshot 2025-06-12 124741](https://github.com/user-attachments/assets/f47b7237-e86d-4c07-a5ce-b3b14a9752dd)
-
----
-
-## 📁 Task 3: Dashboard Insights from Retail Dataset
+## 📁 Task 2: Dashboard Insights from Retail Dataset
 
 **Skills Demonstrated:**
 - 📈 Built a **summary panel** showing:
@@ -75,6 +57,8 @@ This repository showcases my practical Excel skills across **three structured ex
 - ![image](https://github.com/user-attachments/assets/84f812b1-09cf-4de6-90da-9e6817df7be7)
 - ![image](https://github.com/user-attachments/assets/90df8e4e-bf9c-41f8-beb4-a3b174cd19fd)
 - ![image](https://github.com/user-attachments/assets/ef76d024-dc75-4b67-a466-d7acbd5a7b41)
+- ![image](https://github.com/user-attachments/assets/7cae0413-ccf1-4094-baff-9a08eb3b4024)
+
 
 ---
 
@@ -88,5 +72,22 @@ This repository showcases my practical Excel skills across **three structured ex
 5. 
 📸 *Screenshots:*
 - ![Screenshot 2025-06-12 114755](https://github.com/user-attachments/assets/3266a7ac-7845-4cab-b5b4-cfc43b5a4e8f)
----
 
+## 📁 Task 3: Student Academic Performance
+
+**Skills Demonstrated:**
+- 🧮 Applied filters to show top students in **English, Maths, and Science**.
+- ➗ Calculated each student's **average score**.
+- 📊 Used `=MAX()` to identify the **highest individual score**.
+- 🔢 Filtered & sorted data by **average** and **highest scores**.
+- 🎨 Used **conditional formatting** to highlight **top and bottom performers**.
+
+📸 *Screenshots:*
+
+- ![Screenshot 2025-06-12 123658](https://github.com/user-attachments/assets/57274b32-44f6-48a9-9f0b-0d1e86b1be0c)
+- ![Screenshot 2025-06-12 123716](https://github.com/user-attachments/assets/46148c98-34cd-4a99-8588-828d1bf4d82c)
+- ![Screenshot 2025-06-12 123730](https://github.com/user-attachments/assets/a3ff6753-5379-44fc-8313-6a7ca25ad0fa)
+- ![Screenshot 2025-06-12 123745](https://github.com/user-attachments/assets/6e189e8e-a505-4e20-b11e-07d169c27833)
+- ![Screenshot 2025-06-12 124741](https://github.com/user-attachments/assets/f47b7237-e86d-4c07-a5ce-b3b14a9752dd)
+
+---
