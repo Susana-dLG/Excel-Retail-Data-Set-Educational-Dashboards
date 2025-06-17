@@ -91,3 +91,5 @@ This repository showcases my practical Excel skills across **three structured ex
 - ![Screenshot 2025-06-12 124741](https://github.com/user-attachments/assets/f47b7237-e86d-4c07-a5ce-b3b14a9752dd)
 
 ---
+Created by Susana-dLG
+May 2025
