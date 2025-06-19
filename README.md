@@ -62,8 +62,7 @@ This project showcases my work with Excel to analyze and visualize retail data. 
 4. In February, total spend on **Beauty & Electronics** was **£14,035**.
 
 ---
-
-### 📊 Visual Dashboards (Pivot Tables + Charts)
+## 📁 Task 3: 📊 Visual Dashboards (Pivot Tables + Charts)
 
 * 📊 Created a **pivot line chart** to show **total commission by day and department**.
 * 🍰 Used a **3D pie chart** to show **monthly average quantity by product category**.
@@ -83,4 +82,3 @@ May 2025
 
 ---
 
-This structure will ensure that your project is clear, easy to follow, and showcases your Excel skills effectively. Let me know if you'd like any further adjustments!
